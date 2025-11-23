@@ -1,0 +1,16 @@
+Joy 7 88.00
+Yug 16 70.00
+cd 16 70.00
+'c:\Users\Dell\Desktop\Git 100 70.00
+days 100 70.00
+Code\Day_81\output' 100 70.00
+& 100 70.00
+\'code131.exe' 100 70.00
+cd 100 70.00
+'c:\Users\Dell\Desktop\Git 100 70.00
+days 100 70.00
+Code\Day_82\output' 100 70.00
+& 100 70.00
+\'code132.exe' 100 70.00
+cd 100 70.00
+'c:\Users\Dell\Desktop\Git 100 70.00
